@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
+  "notes": "إضافة وثيقة الشروط والخصوصية بـ 9 بنود قانونية وبوابة الموافقة الإلزامية",
+  "releasedAt": "2026-09-23",
+  "mandatory": false,
+  "sha256": "2f720044511def3da9041ed093bff77002054c3ee98bce65fed33075e6ecd5f8",
+  "signature": "a0f375e60fb1de72dc87de112aaf4bfcb0a2c5485d76cbce2a083ac18e3f7b58e1c5a922d20e25018fcadf829b85bc079af43d0aeb083fd61672e65faea39400"
+}
