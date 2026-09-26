@@ -1,9 +1,9 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
-  "notes": "إضافة وثيقة الشروط والخصوصية بـ 9 بنود قانونية وبوابة الموافقة الإلزامية",
-  "releasedAt": "2026-09-23",
+  "notes": "أرقام أدق في التقارير واستيراد الكاشير (التواريخ، ترميز إكسل، المرتجعات، أسعار التطبيقات)، إعدادات بتاريخ، دمج الأصناف، نسيت الرمز، وطباعة PDF أنظف.",
+  "releasedAt": "2026-09-26",
   "mandatory": false,
-  "sha256": "2f720044511def3da9041ed093bff77002054c3ee98bce65fed33075e6ecd5f8",
-  "signature": "a0f375e60fb1de72dc87de112aaf4bfcb0a2c5485d76cbce2a083ac18e3f7b58e1c5a922d20e25018fcadf829b85bc079af43d0aeb083fd61672e65faea39400"
+  "sha256": "1956209101c05135306ddbcc2ab361f73a07b5738d2b786e783f4ac020a14858",
+  "signature": "52d65c4c88bd0a87ae0e48f610b8f66ed0783b8e4d0f046864ae5de88d75e5d6c18dfcc680d2a95a87a928496bcf69fd28fcbac89729e9085b3daf06e3b92b04"
 }
