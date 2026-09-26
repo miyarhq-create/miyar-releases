@@ -1,9 +1,9 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
-  "notes": "أرقام أدق في التقارير واستيراد الكاشير (التواريخ، ترميز إكسل، المرتجعات، أسعار التطبيقات)، إعدادات بتاريخ، دمج الأصناف، نسيت الرمز، وطباعة PDF أنظف.",
+  "notes": "الترخيص: المفتاح المنتهي ما يوقف البرنامج. سعر البيع ينحفظ مع المبيعات. سؤال الضريبة في التهيئة. شاشات الجوال والآيباد أوضح، والتاريخ والأرقام تطلع صح على الأجهزة العربية. تنبيه لأسعار التطبيقات العالية.",
   "releasedAt": "2026-09-26",
   "mandatory": false,
-  "sha256": "1956209101c05135306ddbcc2ab361f73a07b5738d2b786e783f4ac020a14858",
-  "signature": "52d65c4c88bd0a87ae0e48f610b8f66ed0783b8e4d0f046864ae5de88d75e5d6c18dfcc680d2a95a87a928496bcf69fd28fcbac89729e9085b3daf06e3b92b04"
+  "sha256": "d37fc57370c03d0858cfe39e35ed4c65537dfd6ea0159e49805767a56f486ee7",
+  "signature": "12f928f0be0f2666b4b591e4493e0ac3d9ac65358c206f008e5fc0b356daae3e7da07dde1d7cbb113e896b6c0414204b0b14645b7f201ac4fbf3a8be472bc007"
 }
