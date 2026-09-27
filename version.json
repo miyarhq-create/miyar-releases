@@ -1,9 +1,9 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
-  "notes": "واجهة أوضح: الرئيسية تبدأ بربح شهرك ومهام اليوم، وكلام أبسط وتحذيرات التطبيقات بالريال، وكل أداة في مكانها الصحيح، وشريط التكلفة والربح ثابت في شاشة الصنف، وجداول تناسب الجوال، وملخص أسبوعي برقم واحد.",
+  "notes": "تحسينات في تفعيل الاشتراك، وبند الاشتراك في الشروط.",
   "releasedAt": "2026-09-27",
   "mandatory": false,
-  "sha256": "a6bce2812515c92f7aabed064ea8424ff19093b45fdd618879377bf414c3450b",
-  "signature": "a2cac93c613a46fa99134f48e22739850a578210d9d12b0a817eea47ee27868656988272a89e5f4265ad951e478084dcdc5037b4df23b0bb4bd88a70a669d202"
+  "sha256": "bace8e49fd5c771efe9777a0ec0ffc50489d06ae6ec30c3e9b1e30ce10687485",
+  "signature": "1fc606e6bfcd364b546382a1c1b5dfdf071f4786570b46bf5cfe7d85cf45f8960ab89606bb35673e1003c52daaaedfbb79788486dff93f4d84e74ef183ba1404"
 }
