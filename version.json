@@ -1,9 +1,9 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
-  "notes": "إدخال المنيو دفعة وحدة وتخمين الوصفات من أسمائها، مكتبة وصفات وقوالب أكثر (عصيرات وحلويات وفطور)، مؤشر دقة الأرقام وأهم الأسعار، تهيئة أقصر، وخطواتك الأولى في الرئيسية.",
-  "releasedAt": "2026-09-26",
+  "notes": "قالب جاهز لمحلات الشاي والكرك، والمبيعات القديمة ما تتغير إذا غيّرت أسعار التطبيقات، وتصحيح المصاريف الثابتة في التقرير السنوي وجدول التجهيز في رادار الذروة، ودمج المكوّنات المكررة، وتحديث أسعار المنيو من ملف الكاشير، وتحسينات في الإضافات وملفات Excel.",
+  "releasedAt": "2026-09-27",
   "mandatory": false,
-  "sha256": "7c60001fcd3ca67211f810dc1283165617a34cedcdc20806ebc087ec95afb54b",
-  "signature": "94b7c9f19c52a589f7b54d3cc0b12a1897ca090367ed887ff09dfe961bacb9ecca98e6628b08a8e5a5e260e76097e27f3d3f8335b4d6291e3ed41b5bfe725e08"
+  "sha256": "7f45f239054f7b5f37d72a769405bbdfa517cc39ae0277e855646f0b6b9ae670",
+  "signature": "c03dce22d43708208f718e211c6e0fc79a841a668663cff1fd9bd7ca97121998691703f874bd8fa5fbee9874de803fdb1df6188c892b39d9592045dabb3c7e05"
 }
