@@ -1,9 +1,9 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
-  "notes": "تحسينات في تفعيل الاشتراك، وبند الاشتراك في الشروط.",
+  "notes": "أرقام أدق من ملف الكاشير، وتصحيح الأرباح لما تكتب سعر موردك الحقيقي، وتحسينات في التهيئة والأصناف.",
   "releasedAt": "2026-09-27",
   "mandatory": false,
-  "sha256": "bace8e49fd5c771efe9777a0ec0ffc50489d06ae6ec30c3e9b1e30ce10687485",
-  "signature": "1fc606e6bfcd364b546382a1c1b5dfdf071f4786570b46bf5cfe7d85cf45f8960ab89606bb35673e1003c52daaaedfbb79788486dff93f4d84e74ef183ba1404"
+  "sha256": "607d7363e77322ea4d2d005b2d72c6fba8d6d9643c58eb48e153514ba24cc297",
+  "signature": "1f2d52253d76ce8dcd81c919d9a72e79d8e07cc4d04a9b1c638c0c229cd04efcc76e8af2cddcb15e15131cee9ee3a116bab8f0c558dcb962ff3bbc09937f6c03"
 }
