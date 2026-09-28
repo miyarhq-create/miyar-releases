@@ -1,9 +1,9 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
-  "notes": "أرقام أدق من ملف الكاشير، وتصحيح الأرباح لما تكتب سعر موردك الحقيقي، وتحسينات في التهيئة والأصناف.",
-  "releasedAt": "2026-09-27",
+  "notes": "زر «أضف مكوناته» يفتح الأصناف الناقصة مباشرة، وشريط الأصناف يتحرك بالماوس.",
+  "releasedAt": "2026-09-28",
   "mandatory": false,
-  "sha256": "607d7363e77322ea4d2d005b2d72c6fba8d6d9643c58eb48e153514ba24cc297",
-  "signature": "1f2d52253d76ce8dcd81c919d9a72e79d8e07cc4d04a9b1c638c0c229cd04efcc76e8af2cddcb15e15131cee9ee3a116bab8f0c558dcb962ff3bbc09937f6c03"
+  "sha256": "c8521eef6cbf4af01fc48916382bc1761c7e3ab0ff30a42c9e66bb5d3b09c9c7",
+  "signature": "7c7b256c956d1497e1040debccefdba939d6feaf065e53c57349165e288471e94cd4bfddb7b0eb0a1e91791d07fcea081298274195c187700d0c530ba6afdd02"
 }
