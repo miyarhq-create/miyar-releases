@@ -1,9 +1,9 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
-  "notes": "نسخة احتياطية تلقائية يومية في مجلد تختاره (نسخة الويندوز)، وحفظ النسخة الاحتياطية من الجوال عبر المشاركة، واستيراد كشف حساب تطبيق التوصيل لضبط العمولة والرسوم الحقيقية، وسبب ارتفاع تكلفة كل صنف، ونصوص أوضح بالعربية الفصحى في كل الشاشات، وتقرير سنوي أسرع.",
-  "releasedAt": "2026-09-28",
+  "notes": "تصحيح استيراد تقارير المبيعات الشهرية في أول أيام الشهر، إذ كان الشهر الحالي يُستبعد منها، وعبارات أوضح في بعض الشاشات.",
+  "releasedAt": "2026-10-03",
   "mandatory": false,
-  "sha256": "c5027ce9afcf112ac03582dbae7836dff01703f9cd17bb5b12e13a937f1b3de3",
-  "signature": "aec5829dc9d366761ca2d3ca5639a95cdae275d4b9615fa9778efa07aabbe33c35f495505b4dec287508ad07661f7e88d8d521cee9d928226a384703cdb4ca08"
+  "sha256": "f42aa5b0b6a536a0b916364a6df79799d4c1aa41f2407083692a527e07e8cb1f",
+  "signature": "b5d7ea90a8a20b0fa19ce07cf97bf932e75f424ed6d035a887f1c541b07ec6a7e895f2e951c7f4008014f48c036857e6218dbf044b168e086e269a5cb2d9bb01"
 }
