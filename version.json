@@ -1,9 +1,9 @@
 {
-  "version": "0.1.11",
+  "version": "0.1.12",
   "downloadUrl": "https://github.com/miyarhq-create/miyar-releases/releases/latest/download/Miyar-Setup.exe",
-  "notes": "تصحيح استيراد تقارير المبيعات الشهرية في أول أيام الشهر، إذ كان الشهر الحالي يُستبعد منها، وعبارات أوضح في بعض الشاشات.",
-  "releasedAt": "2026-10-03",
+  "notes": "حفظ المبيعات يتم مرة واحدة مهما تكرر الضغط، وتتحدث شاشة المبيعات بعد منتصف الليل، وتنزيل التحديث يعرض نسبة التقدم، وشروط واضحة فيها السعر والاسترجاع.",
+  "releasedAt": "2026-10-06",
   "mandatory": false,
-  "sha256": "f42aa5b0b6a536a0b916364a6df79799d4c1aa41f2407083692a527e07e8cb1f",
-  "signature": "b5d7ea90a8a20b0fa19ce07cf97bf932e75f424ed6d035a887f1c541b07ec6a7e895f2e951c7f4008014f48c036857e6218dbf044b168e086e269a5cb2d9bb01"
+  "sha256": "46a9653dd67b520f0ef037572b9b1ed473aa4de8d04d11ec524fa4885764308d",
+  "signature": "febe87ba6c82783b433024a7d5886b7f33d167d765ec82fb3237e0436999f8765f8b5951176c27997300f310d09d94c6a9ef8fc735c19fb621947d91e77c2108"
 }
